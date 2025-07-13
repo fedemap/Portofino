@@ -87,8 +87,8 @@
         <groovy.version>3.0.8</groovy.version>
         <guava.version>30.0-jre</guava.version>
         <hibernate.version>5.4.31.Final</hibernate.version>
-        <jackson.version>2.11.0</jackson.version>
-        <jackson.databind.version>2.10.5.1</jackson.databind.version>
+        <jackson.version>2.15.0</jackson.version>
+        <jackson.databind.version>2.15.0</jackson.databind.version>
         <javassist.version>3.24.0-GA</javassist.version> <!-- Hibernate 5 depends on this version, Jersey depends on 3.18.1-GA, Swagger depends on 3.22.0-GA -->
         <javax.mail.version>1.6.2</javax.mail.version> <!-- Differs from commons-email but the interface is unchanged -->
         <javax.ws.rs.api.version>2.1</javax.ws.rs.api.version>
@@ -106,7 +106,7 @@
         <quartz.version>2.3.2</quartz.version>
         <resteasy.version>4.5.8.SP1</resteasy.version>
         <servlet.api.version>4.0.1</servlet.api.version>
-        <shiro.version>1.7.1</shiro.version>
+        <shiro.version>2.0.5</shiro.version>
         <slf4j.version>1.7.25</slf4j.version>
         <spring.version>5.3.6</spring.version>
 
